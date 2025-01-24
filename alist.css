@@ -6,7 +6,7 @@ Koyuki
 */
 
 body{
-	background-image:url('http://api.hancat.work/cloud/api.php');//将此处替换为你自己的背景图api地址
+	background-image:url('http://192.168.3.252:40027/thumbnails/1698d6da065e74f15eb47555d32bb62a.png');//将此处替换为你自己的背景图api地址
 	background-repeat:no-repeat;
 	background-size:cover;
 	background-attachment: fixed;
